@@ -217,6 +217,15 @@ h3{
 
 }
 
+.navbar{
+    background-color: #f6f6f6;
+}
+
+.nav-link{
+    font-weight: 400;
+    transition: 0.2s;
+}
+
 .navbar-toggler{
     border: 0px;
     transition: 0.2s;
